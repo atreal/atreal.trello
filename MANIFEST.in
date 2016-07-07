@@ -1,0 +1,2 @@
+graft src/atreal
+include *.cfg *.rst *.in
